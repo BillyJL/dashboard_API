@@ -3,3 +3,5 @@ dist
 .eslintrc
 .prettierrc
 .vscode
+nodemon.json
+.clinic
