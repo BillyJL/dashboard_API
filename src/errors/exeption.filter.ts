@@ -4,7 +4,6 @@ import { ILogger } from './../logger/logger.interface';
 import { IExeptionFilter } from './exeption.filter.interface';
 import { HTTPError } from './http-error.class';
 import { TYPES } from '../types';
-import 'reflect-metadata';
 
 @injectable()
 export class ExeptionFilter implements IExeptionFilter {
